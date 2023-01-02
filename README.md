@@ -6,7 +6,7 @@ Note: The current program is limited to sending only TEXT message
 
 Note: Another version of similar project is available which supports sending media and documents along with text. As per many requests, I have added a video here demonstrating how the app works. Please reach out to me on email for more enquiry. 
 
-My email id :- tanzeemkhan1997@gmail.com
+Our email id :- tanzeemkhan1997@gmail.com, umeshzadokar121@gmail.com
 
 # Requirements
 
