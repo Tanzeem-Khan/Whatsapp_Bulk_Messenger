@@ -10,13 +10,13 @@ My email id :- tanzeemkhan1997@gmail.com
 
 # Requirements
 
-Python >= 3.6 and 
-Chrome headless is installed by the program automatically
+  1. Python >= 3.6
+  2. Chrome headless is installed by the program automatically
 
 # Setup
 
-Install python - >=v3.6
-Run pip install -r requirements.txt
+  1. Install python - >=v3.6
+  2. Run pip install -r requirements.txt
 
 # Steps
 
