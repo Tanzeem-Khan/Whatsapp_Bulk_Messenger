@@ -10,7 +10,7 @@ My email id :- tanzeemkhan1997@gmail.com
 
 # Requirements
 
-Python >= 3.6
+Python >= 3.6 and 
 Chrome headless is installed by the program automatically
 
 # Setup
